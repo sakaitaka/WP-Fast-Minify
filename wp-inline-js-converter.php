@@ -2,7 +2,7 @@
 /*
    Plugin Name: WP Fast Minify
    Plugin URI: http://wordpress.org/extend/plugins/wp-inline-js-converter/
-   Version: 1.4.0
+   Version: 1.5.0
    Author: skita45
    Description: Compress HTML Code, And Converting Inline Script and Style To JavaScript and CSS Compressed File.
    Text Domain: wp-inline-js-converter
@@ -34,7 +34,7 @@ if ( defined( 'WP_INLINE_JS_CONVERTER_VERSION' ) ) {
 	return;
 }
 
-define( 'WP_INLINE_JS_CONVERTER_VERSION', '1.4.0' );
+define( 'WP_INLINE_JS_CONVERTER_VERSION', '1.5.0' );
 define( 'WP_INLINE_JS_CONVERTER_FILE', __FILE__ );
 define( 'WP_INLINE_JS_CONVERTER_PATH', plugin_dir_path( WP_INLINE_JS_CONVERTER_FILE ) );
 define( 'WP_INLINE_JS_CONVERTER_URL', plugin_dir_url( WP_INLINE_JS_CONVERTER_FILE ) );
