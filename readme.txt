@@ -5,8 +5,8 @@ Tags: minify,html,css,js,javascript,compressor
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 3.9
-Tested up to: 4.9.4
-Stable tag: 1.4.0
+Tested up to: 5.7.2
+Stable tag: 1.5.0
 
 Compress HTML Code, And Converting Inline Script and Style To JavaScript and CSS Compressed File.
 
@@ -30,6 +30,9 @@ A1. Admin Menu > WP Fast Minify
 2. Admin Settings Page.(Japanese)
 
 == Changelog ==
+
+= 1.5.0 =
+- WordPress Version 5.7.2 tested
 
 = 1.4.0 =
 - Bug Fixed.
